@@ -1,5 +1,5 @@
 Hi, I'm Indocryptic.
-I just joined, I'm planning on doing things here maybe sometime
+I do stuff
 
 <!---
 Indocryptic/Indocryptic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
